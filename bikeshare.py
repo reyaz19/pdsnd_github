@@ -25,7 +25,7 @@ import numpy as np
 
 '''
 For Running in Local:
-The Data is present in the folder named 'data' in local containing the same files as present here.
+The Data is present in the folder named 'data' in local containing the csv files as present here.
 
 # The City data in the Local Present as:
 CITY_DATA = { 'chicago': '.\data\chicago.csv',
