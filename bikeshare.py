@@ -139,6 +139,7 @@ def get_filter_day():
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
+    User experience should be interactive
 
     Returns:
         (str) city - name of the city to analyze
