@@ -9,8 +9,8 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
- Using Python to understand U.S. bikeshare data. 
- Calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
+ --> Using Python to understand U.S. bikeshare data. 
+ --> Calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 
 ### Files used
